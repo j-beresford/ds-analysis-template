@@ -1,4 +1,4 @@
-# ds-analysis-template
+# Data Science analysis repo - template
 
 Template repo for my personal projects. 
 
